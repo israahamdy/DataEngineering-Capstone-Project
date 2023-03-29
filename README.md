@@ -8,6 +8,8 @@ In this project, I defined the scope and data for the project; work with four da
 ## Project Summary
 In this project data gathered from four datasets with different sources for analysing US immigration data in a simple star schema. The main aim is to provide analytics to answer business questions which can be analyze and provide insight into the pattern of immigration. The analysis questions can be answered based on the data model using simple joins. Spark was used for the ETL pipeline and The final data is stored in parquet files for analysis.
 
+The project uses Apache Spark engine. Spark is an simple and fast and also scalable analytics engine for large scale data processing. It has an ability to process and analyse massive ammounts of data using PySpark interface. Can handle different data formats (e.g. SAS, Parquet, CSV), and can be integrated with cloud storage solutions like S3 or Redshift.
+
 ## Project Datasets:
 
 - I94 Immigration Data: This data comes from the US National Tourism and Trade Office. 
