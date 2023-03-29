@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this data engineering capstone project is to give a chance to combine what I've learned throughout the program.
 
-In this project, I defined the scope and data for the project; work with four datasets to complete the project. The main dataset include data on immigration to the United States, and supplementary datasets will include data on airport codes, U.S. city demographics, and temperature data.
+In this project, I worked with four datasets to complete the project. The main dataset include data on immigration to the United States, and supplementary datasets will include data on airport codes, U.S. city demographics, and temperature data.
 
 ## Project Summary
 In this project data gathered from four datasets with different sources for analysing US immigration data in a simple star schema. The main aim is to provide analytics to answer business questions which can be analyze and provide insight into the pattern of immigration. The analysis questions can be answered based on the data model using simple joins. Spark was used for the ETL pipeline and The final data is stored in parquet files for analysis.
