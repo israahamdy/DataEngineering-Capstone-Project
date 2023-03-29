@@ -1,7 +1,7 @@
 # Data Engineering Capstone Project
 
 ## Overview
-The purpose of the data engineering capstone project is to give a chance to combine what I've learned throughout the program.
+The purpose of this project is to give a chance to combine what I've learned throughout the Udacity Data Engineering Nanodegree program.
 
 ## Project Summary
 In this project data gathered from four datasets with different sources for analysing US immigration data in a simple star schema. The main aim is to provide analytics to answer business questions which can be analyze and provide insight into the pattern of immigration. The analysis questions can be answered based on the data model using simple joins. Spark was used for the ETL pipeline and The final data is stored in parquet files for analysis.
